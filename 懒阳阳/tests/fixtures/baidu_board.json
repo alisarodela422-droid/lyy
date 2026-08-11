@@ -1,0 +1,17 @@
+{
+  "success": true,
+  "data": {
+    "cards": [
+      {
+        "content": [
+          {
+            "content": [
+              {"word": "某品牌秋冬新品", "hotScore": 2345678, "url": "https://www.baidu.com/s?wd=某品牌秋冬新品"},
+              {"word": "普通新闻词", "hotScore": 88888}
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}
